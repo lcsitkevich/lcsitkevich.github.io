@@ -1,0 +1,198 @@
+
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 50;
+        font-style: normal;
+        
+
+}
+
+
+nav{
+    display: flex; 
+    background-color: rgb(0, 0, 0);
+    flex-direction: column;
+    justify-content: left;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1x;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    border: 2px solid wheat;
+   
+}
+ h5{
+    text-align: left;
+    color: black;
+    font-size: 15px;
+    background-color: whitesmoke;
+ 
+
+
+    display: flex;
+    flex-direction: row;
+    border-style: double;
+    border-width: 4px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-color: wheat;
+    justify-content: space-around;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+
+ }
+
+
+
+.introblock{
+    display: flex;
+    background: url("../img/lilahtoast.png");
+    opacity: 0.8;
+    background-repeat: repeat;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    flex-direction: row;
+    justify-content: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+   
+}
+
+section{
+    display: flex; 
+    justify-content: space-between;
+    background-color: whitesmoke;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px;
+    border-style: solid;
+    border-color: wheat;
+
+}
+
+
+
+.blogonepic{
+    border-radius: 10%;
+    display: flex; 
+    justify-content: space-between;
+    background-color: whitesmoke;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    border: 2px solid wheat; 
+}
+
+.blogtwopic{
+    border-radius: 10%;
+    display: flex; 
+    justify-content: space-between;
+    background-color: whitesmoke;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    border: 2px solid wheat; 
+}
+
+.blogthreepic{
+    border-radius: 10%;
+    display: flex; 
+    justify-content: space-between;
+    background-color: whitesmoke;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    border: 2px solid wheat;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: wheat;
+    border-radius: 10%;
+   }
+   
+
+h4{
+    color: rgb(0, 0, 0);
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    background-color: whitesmoke;
+    font-size: 30px;
+    border-radius: 40%;
+
+}
+
+
+h3{
+    color: black;
+    font-family: "Indie Flower", cursive;
+    font-weight:bold;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+
+    
+
+}
+
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+h2{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
