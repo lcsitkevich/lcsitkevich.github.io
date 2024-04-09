@@ -1,4 +1,3 @@
-
 h1{
     text-align: left;
     color: rgb(255, 255, 255);
@@ -16,10 +15,12 @@ h1{
     font-optical-sizing: auto;
     font-weight: 50;
     font-style: normal;
-
-}
-
-nav{
+ 
+ 
+ }
+ 
+ 
+ nav{
     display: flex;
     background: url("../img/batchesscreenshot.jpeg");
     background-position: 10%;
@@ -32,11 +33,14 @@ nav{
     padding-right: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
-
-}
-
-
-h5 {
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ h5 {
     text-align: left;
     color: black;
     font-size: 12px;
@@ -54,17 +58,21 @@ h5 {
     padding-right: 20px;
     padding-bottom: 10px;
     padding-top: 10px;
-
+ 
+ 
     font-size: 15px;
         font-family: "EB Garamond", serif;
         font-optical-sizing: auto;
         font-weight: 50;
         font-style: normal;
-
-}
-
-.thirdlab {
-
+ 
+ 
+ }
+ 
+ 
+ .thirdlab {
+ 
+ 
     display: flex;
     margin-top: 0px;
     margin-left: 0px;
@@ -75,73 +83,87 @@ h5 {
     padding-right: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
-
-}
-
-h6{
-    color: rgb(0, 0, 0);
-    font-family: "Indie Flower", cursive;
-    font-weight: 400;
-    font-style: normal;
+ 
+ 
+ }
+ 
+ 
+ h6{
+    font-size: 15px;
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 50;
+        font-style: normal;
+        color:black;
     display: flex;
     flex-direction: row;
     font-size: 20px;
     border-radius: 40%;
-
-}
-
-a:hover {
+ 
+ 
+ }
+ 
+ 
+ a:hover {
     color: rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
     border-radius: 10%;
+    text-decoration-color: rgb(253, 4, 4);
+ 
+ 
    }
-   
-
-.blog3clicker{
+  
+ 
+ 
+ .blog3clicker{
     border-radius: 10%;
-    display: flex; 
+    display: flex;
     justify-content: space-between;
-    background-color: wheat;
+    background-color: rgb(255, 255, 255);
     flex-direction: row;
     padding-top: 20px;
     padding-bottom: 25px;
     padding-left: 20px;
     padding-right: 20px;
     margin: 20px;
-    border: 2px solid wheat; 
-}
-
-.blog4clicker{
-    border-radius: 10%;
-    display: flex; 
-    justify-content: space-between;
-    background-color: wheat;
-    flex-direction: row;
-    padding-top: 20px;
-    padding-bottom: 25px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin: 20px;
-    border: 2px solid wheat; 
-}
-
-.blog5clicker{
-    border-radius: 10%;
-    display: flex; 
-    justify-content: space-between;
-    background-color: wheat;
-    flex-direction: row;
-    padding-top: 20px;
-    padding-bottom: 25px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin: 20px;
-    border: 2px solid wheat;
-
+    border: 2px solid rgb(0, 0, 0);
  }
-
+ 
+ 
+ .blog4clicker{
+    border-radius: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    border: 2px solid rgb(0, 0, 0);
+ }
+ 
+ 
+ .blog5clicker{
+    border-radius: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    border: 2px solid rgb(0, 0, 0);
+ 
+ 
+ }
+ 
+ 
  footer{
-    display: flex; 
+    display: flex;
     justify-content: space-between;
     background-image: url("../img/lilahtoast.png");
     flex-direction: row;
@@ -150,5 +172,9 @@ a:hover {
     padding-left: 20px;
     padding-right: 20px;
     margin: 20px;
-
-}
+ 
+ 
+ }
+ 
+ 
+ 
